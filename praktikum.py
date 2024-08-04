@@ -35,6 +35,7 @@ def main():
 
     # Распечатаем рецепт бургера
     print(burger.get_receipt())
+    print(buns)
 
 
 if __name__ == "__main__":
